@@ -10,7 +10,7 @@ $(document).ready(function(){
 
     $('.btn_no').on('click', function(e){
         e.preventDefault();
-        alert('다시 생각해주세요^^;');
+        alert('다시 생각해주세요^^');
     });
 
     $('.btn_yes').on('click', function(e){
